@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10331_webTech_Labs", "10331_webTech_Labs\10331_webTech_Labs.csproj", "{8769A3E6-56C2-4E43-B124-8FF093725951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10331_webTech_Labs.DAL", "10331_webTech_Labs.DAL\10331_webTech_Labs.DAL.csproj", "{0C58A368-B996-469E-A767-4B8AF6D7C2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8769A3E6-56C2-4E43-B124-8FF093725951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8769A3E6-56C2-4E43-B124-8FF093725951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8769A3E6-56C2-4E43-B124-8FF093725951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8769A3E6-56C2-4E43-B124-8FF093725951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C58A368-B996-469E-A767-4B8AF6D7C2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C58A368-B996-469E-A767-4B8AF6D7C2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C58A368-B996-469E-A767-4B8AF6D7C2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C58A368-B996-469E-A767-4B8AF6D7C2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254F515F-5979-4193-9B8F-6C640C40E8C0}
+	EndGlobalSection
+EndGlobal
